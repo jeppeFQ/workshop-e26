@@ -1,8 +1,8 @@
 # Gruppe
 
-**Gruppenummer:**
+**Gruppenummer:** gruppe 1
 
-**Arbejdstitel:**
+**Arbejdstitel:** øvelses arbejde
 
 **Gruppens fork:** https://github.com/BRUGERNAVN/diversitetsbarometer
 
@@ -14,7 +14,9 @@
 <!-- Skriv GitHub-brugernavn — ikke fulde navn, hvis I hellere vil være fri. -->
 
 | GitHub-brugernavn | Studieretning |
-|---|---|
+|Naknardk|Bid|
+|Patriciaskovhus|BID|
+|Vjolabytyqi|BID|
 
 ## Aftaler
 
@@ -25,3 +27,4 @@
 - Vi pusher, før vi går
 - To sidder aldrig i den samme fil på samme tid. Vi aftaler i Issues, hvem der tager hvad
 
+naknar og jeg bruger windows
